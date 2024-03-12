@@ -9,7 +9,7 @@ This is a penguin animation that I have done with html and css.
 ## Features
 
 - **Infinitely Repeating Animations**: It keeps playing the animation without stopping.
-- **Manual Animations**: You can click on penguin zoom in to it. 
+- **Manual Activation**: You can click on penguin to zoom in to it. 
 
 ## Technologies Used
 
