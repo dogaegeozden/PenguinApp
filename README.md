@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a penguin animation that I have done with html and css. 
+This is a penguin animation that I have done with html and css.
 
 ## Features
 
